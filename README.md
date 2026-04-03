@@ -10,18 +10,6 @@
 I build and deploy end-to-end ML applications. My focus is on solving real problems
 with Python, machine learning, and clean data pipelines — not just notebooks.
 
-### Hi, I'm Anika Goel 👋
-
-🎓 Final-year BCA student | AI & Data Science @ Graphic Era University  
-📍 India  |  🔍 Open to ML, Data, and Python Developer roles
-
----
-
-**About me**
-
-I build and deploy end-to-end ML applications. My focus is on solving real problems
-with Python, machine learning, and clean data pipelines — not just notebooks.
-
 ---
 
 **Projects**
