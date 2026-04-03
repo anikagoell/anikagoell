@@ -32,9 +32,9 @@ with Python, machine learning, and clean data pipelines — not just notebooks.
 **Tech Stack**
 
 
-Languages   →  Python, SQL, HTML, CSS
-ML/Data     →  Scikit-learn, Pandas, NumPy
-Web         →  Flask, Streamlit
+Languages   →  Python, SQL, HTML, CSS<br>
+ML/Data     →  Scikit-learn, Pandas, NumPy<br>
+Web         →  Flask, Streamlit<br>
 Tools       →  Git, GitHub, Render, Jupyter Notebook
 
 ---
@@ -49,7 +49,7 @@ Tools       →  Git, GitHub, Render, Jupyter Notebook
 
 **Let's connect**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Anika_Goel-blue?style=flat&logo=linkedin)](https://linkedin.com/in/anikagoell)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Anika_Goel-blue?style=flat&logo=linkedin)](https://linkedin.com/in/anikagoelll)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=flat)](https://anikagoell.github.io/Portfolio/)
 [![Email](https://img.shields.io/badge/Email-anikagoel0409@gmail.com-red?style=flat&logo=gmail)](mailto:anikagoel0409@gmail.com)
 
