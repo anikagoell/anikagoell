@@ -12,6 +12,13 @@ with Python, machine learning, and clean data pipelines — not just notebooks.
 
 ---
 
+**Experience**
+
+Data Analyst @AVedge Technosolutions Pvt Limited         June2026-July2026     Delhi
+Analyst Trainee @Cognizant                               August2026-Present    Bangalore
+
+---
+
 **Projects**
 
 🚀  **Readorithm** — Live book recommendation web app  
