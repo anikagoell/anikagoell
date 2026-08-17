@@ -14,8 +14,8 @@ with Python, machine learning, and clean data pipelines — not just notebooks.
 
 **Experience**
 
-Data Analyst @AVedge Technosolutions Pvt Limited         June2026-July2026     Delhi
-Analyst Trainee @Cognizant                               August2026-Present    Bangalore
+Data Analyst @AVedge Technosolutions Pvt Limited\t         June2026-July2026\t     Delhi\n
+Analyst Trainee @Cognizant\t\t                               August2026-Present\t   Bangalore\n
 
 ---
 
