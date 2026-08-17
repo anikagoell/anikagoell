@@ -12,12 +12,20 @@ with Python, machine learning, and clean data pipelines — not just notebooks.
 
 ---
 
-**Experience**
+## Experience
 
-Data Analyst @AVedge Technosolutions Pvt Limited\t         June2026-July2026\t     Delhi\n
-Analyst Trainee @Cognizant\t\t                               August2026-Present\t   Bangalore\n
+**Data Analyst — AVedge TechnoSolutions Pvt. Limited**  
+*June 2026 – July 2026 · Delhi, India*
+- Analyzed and cleaned business data using **Advanced Excel, Pivot Tables, and lookup functions**.
+- Prepared **data-driven reports** and performed data validation for accurate business reporting.
+
+**Analyst Trainee — Cognizant**  
+*August 2026 – Present · Bangalore, India*
+- Trained across **technology domains, IT processes, and enterprise tools** through structured learning.
+- Developed skills in **corporate communication, teamwork, problem-solving, and professional practices**.
 
 ---
+
 
 **Projects**
 
