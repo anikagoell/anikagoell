@@ -1,6 +1,6 @@
 ### Hi, I'm Anika Goel 👋
 
-🎓 Final-year BCA student | AI & Data Science @ Graphic Era University  
+🎓 BCA Graduate | AI & Data Science @ Graphic Era University  
 📍 India  |  🔍 Open to ML, Data, and Python Developer roles
 
 ---
